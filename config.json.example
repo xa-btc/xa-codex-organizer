@@ -1,0 +1,5 @@
+{
+  "monitor": "primary",
+  "preferred_columns": 2,
+  "request_account_usage": true
+}

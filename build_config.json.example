@@ -1,0 +1,7 @@
+{
+  "jobs": 4,
+  "run_tests": true,
+  "full_tests": true,
+  "launch_after_build": true,
+  "pause_on_exit": true
+}
